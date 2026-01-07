@@ -1,6 +1,0 @@
-partition_id,nodes_in_partition,rounds_run,accepted_blocks,dropped_txs,liveness_ratio,fork_resolution_time,merge_consensus_time
-1,52,5,0,18,0.00%,1.85,1.1318
-2,121,15,13,12,86.67%,1.85,1.1318
-3,20,10,9,3,90.00%,1.85,1.1318
-4,211,14,11,13,78.57%,1.85,1.1318
-5,96,8,6,8,75.00%,1.85,1.1318

@@ -1,7 +1,0 @@
-ts,label,device,scheme,prover_time_s_avg,prover_cpu_avg,prover_ram_peak_mb,verifier_time_s_avg,verifier_cpu_avg,verifier_ram_peak_mb,proof_size_bytes_avg,bandwidth_kbps_avg,tx_count,repeat_idx
-2025-09-24T06:34:19.449682,RQ3.2_costs,RaspberryPi5,groth16,0.36654,0.0,0.0,0.0728,0.0,0.0,196608,12951.22,30,1
-2025-09-24T06:34:32.506945,RQ3.2_costs,RaspberryPi5,groth16,0.363888,0.0,0.0,0.070932,0.0,0.0,196608,13257.65,30,2
-2025-09-24T06:34:45.417564,RQ3.2_costs,RaspberryPi5,groth16,0.361026,0.0,0.0,0.068971,0.0,0.0,196608,13585.06,30,3
-2025-09-24T06:39:24.475185,RQ3.2_costs,RaspberryPi5,groth16,0.365159,0.59,7.26,0.070067,0.11,5.0,197156,13569.41,30,1
-2025-09-24T06:39:37.645303,RQ3.2_costs,RaspberryPi5,groth16,0.36782,0.22,11.96,0.074428,0.18,7.4,195871,13217.92,30,2
-2025-09-24T06:39:50.837759,RQ3.2_costs,RaspberryPi5,groth16,0.371921,0.79,5.0,0.071447,0.22,5.0,194447,13308.1,30,3

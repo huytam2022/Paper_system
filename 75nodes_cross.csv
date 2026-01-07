@@ -1,7 +1,0 @@
-num_nodes,src_nodes,dst_nodes,relay_src,relay_dst,tx_per_block,cross_chain,consensus_mode,zkp_time_s,src_flow_max,src_flow_min,dst_flow_max,dst_flow_min,throughput_tx_s
-75,25,50,1,2,1024,True,light,0.0428,1024.0,970.0,471,423,423
-75,25,50,1,2,2048,True,light,0.0745,2048.0,1943.0,766,715,715
-75,25,50,1,2,4096,True,light,0.1615,4096.0,3902.0,1047,979,979
-75,25,50,1,2,8192,True,light,0.3726,8192.0,3909.0,1552,1415,1415
-75,25,50,1,2,16384,True,light,0.7254,16384.0,3877.0,1846,1712,1712
-75,25,50,1,2,32768,True,light,1.9479,32768.0,3879.0,1789,1616,1616

@@ -1,4 +1,0 @@
-ts,label,device,scheme,prover_time_s_avg,prover_cpu_avg,prover_ram_peak_mb,verifier_time_s_avg,verifier_cpu_avg,verifier_ram_peak_mb,proof_size_bytes_avg,bandwidth_kbps_avg,tx_count,repeat_idx
-2025-09-24T06:42:02.043649,RQ3.2_costs,RaspberryPi5,groth16,0.36012,3.06,35.51,0.060683,0.53,23.44,199348,15861.08,30,1
-2025-09-24T06:42:15.142921,RQ3.2_costs,RaspberryPi5,groth16,0.373604,1.09,62.91,0.08093,0.88,31.41,192924,14279.12,30,2
-2025-09-24T06:42:28.238214,RQ3.2_costs,RaspberryPi5,groth16,0.393381,4.2,17.19,0.063265,0.91,15.8,185804,15228.36,30,3
