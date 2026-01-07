@@ -1,0 +1,2 @@
+num_nodes,normal_nodes,relay_nodes,tx_per_block,consensus_mode,elapsed_s,throughput_tx_s_overall,region_C_throughput_tx_s,region_C_latency_avg_ms,region_C_latency_p95_ms,region_N_throughput_tx_s,region_N_latency_avg_ms,unrelated_latency_avg_ms,unrelated_dispatcher_wait_avg_ms,gini_worker_load
+250,225,25,16384,light,0.7975,3825.97,2692.0,4032.17,7648.31,5100.0,1866.05,1866.05,704.85,0.2198

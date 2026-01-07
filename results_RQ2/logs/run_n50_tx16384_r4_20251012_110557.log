@@ -1,0 +1,19 @@
+🧩 Block blk_0 (VALID) | tx=16384 → ACCEPTED [50/50 approvals]
+{
+  "num_nodes": 50,
+  "normal_nodes": 45,
+  "relay_nodes": 5,
+  "tx_per_block": 16384,
+  "consensus_mode": "light",
+  "elapsed_s": 0.8646,
+  "throughput_tx_s_overall": 6313.81,
+  "region_C_throughput_tx_s": 2781.5,
+  "region_C_latency_avg_ms": 4159.74,
+  "region_C_latency_p95_ms": 7902.23,
+  "region_N_throughput_tx_s": 5016.5,
+  "region_N_latency_avg_ms": 1939.56,
+  "unrelated_latency_avg_ms": 1939.56,
+  "unrelated_dispatcher_wait_avg_ms": 778.61,
+  "gini_worker_load": 0.2208
+}
+✅ Ghi kết quả vào '16384_single.csv'

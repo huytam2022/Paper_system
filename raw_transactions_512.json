@@ -1,0 +1,4100 @@
+{
+  "transactions": [
+    {
+      "tx_id": "tx00000",
+      "payload": {
+        "citizen_id": "VN00000",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00001",
+      "payload": {
+        "citizen_id": "VN00001",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00002",
+      "payload": {
+        "citizen_id": "VN00002",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00003",
+      "payload": {
+        "citizen_id": "VN00003",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00004",
+      "payload": {
+        "citizen_id": "VN00004",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00005",
+      "payload": {
+        "citizen_id": "VN00005",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00006",
+      "payload": {
+        "citizen_id": "VN00006",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00007",
+      "payload": {
+        "citizen_id": "VN00007",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00008",
+      "payload": {
+        "citizen_id": "VN00008",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00009",
+      "payload": {
+        "citizen_id": "VN00009",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00010",
+      "payload": {
+        "citizen_id": "VN00010",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00011",
+      "payload": {
+        "citizen_id": "VN00011",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00012",
+      "payload": {
+        "citizen_id": "VN00012",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00013",
+      "payload": {
+        "citizen_id": "VN00013",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00014",
+      "payload": {
+        "citizen_id": "VN00014",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00015",
+      "payload": {
+        "citizen_id": "VN00015",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00016",
+      "payload": {
+        "citizen_id": "VN00016",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00017",
+      "payload": {
+        "citizen_id": "VN00017",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00018",
+      "payload": {
+        "citizen_id": "VN00018",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00019",
+      "payload": {
+        "citizen_id": "VN00019",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00020",
+      "payload": {
+        "citizen_id": "VN00020",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00021",
+      "payload": {
+        "citizen_id": "VN00021",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00022",
+      "payload": {
+        "citizen_id": "VN00022",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00023",
+      "payload": {
+        "citizen_id": "VN00023",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00024",
+      "payload": {
+        "citizen_id": "VN00024",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00025",
+      "payload": {
+        "citizen_id": "VN00025",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00026",
+      "payload": {
+        "citizen_id": "VN00026",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00027",
+      "payload": {
+        "citizen_id": "VN00027",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00028",
+      "payload": {
+        "citizen_id": "VN00028",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00029",
+      "payload": {
+        "citizen_id": "VN00029",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00030",
+      "payload": {
+        "citizen_id": "VN00030",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00031",
+      "payload": {
+        "citizen_id": "VN00031",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00032",
+      "payload": {
+        "citizen_id": "VN00032",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00033",
+      "payload": {
+        "citizen_id": "VN00033",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00034",
+      "payload": {
+        "citizen_id": "VN00034",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00035",
+      "payload": {
+        "citizen_id": "VN00035",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00036",
+      "payload": {
+        "citizen_id": "VN00036",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00037",
+      "payload": {
+        "citizen_id": "VN00037",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00038",
+      "payload": {
+        "citizen_id": "VN00038",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00039",
+      "payload": {
+        "citizen_id": "VN00039",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00040",
+      "payload": {
+        "citizen_id": "VN00040",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00041",
+      "payload": {
+        "citizen_id": "VN00041",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00042",
+      "payload": {
+        "citizen_id": "VN00042",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00043",
+      "payload": {
+        "citizen_id": "VN00043",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00044",
+      "payload": {
+        "citizen_id": "VN00044",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00045",
+      "payload": {
+        "citizen_id": "VN00045",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00046",
+      "payload": {
+        "citizen_id": "VN00046",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00047",
+      "payload": {
+        "citizen_id": "VN00047",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00048",
+      "payload": {
+        "citizen_id": "VN00048",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00049",
+      "payload": {
+        "citizen_id": "VN00049",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00050",
+      "payload": {
+        "citizen_id": "VN00050",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00051",
+      "payload": {
+        "citizen_id": "VN00051",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00052",
+      "payload": {
+        "citizen_id": "VN00052",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00053",
+      "payload": {
+        "citizen_id": "VN00053",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00054",
+      "payload": {
+        "citizen_id": "VN00054",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00055",
+      "payload": {
+        "citizen_id": "VN00055",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00056",
+      "payload": {
+        "citizen_id": "VN00056",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00057",
+      "payload": {
+        "citizen_id": "VN00057",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00058",
+      "payload": {
+        "citizen_id": "VN00058",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00059",
+      "payload": {
+        "citizen_id": "VN00059",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00060",
+      "payload": {
+        "citizen_id": "VN00060",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00061",
+      "payload": {
+        "citizen_id": "VN00061",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00062",
+      "payload": {
+        "citizen_id": "VN00062",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00063",
+      "payload": {
+        "citizen_id": "VN00063",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00064",
+      "payload": {
+        "citizen_id": "VN00064",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00065",
+      "payload": {
+        "citizen_id": "VN00065",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00066",
+      "payload": {
+        "citizen_id": "VN00066",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00067",
+      "payload": {
+        "citizen_id": "VN00067",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00068",
+      "payload": {
+        "citizen_id": "VN00068",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00069",
+      "payload": {
+        "citizen_id": "VN00069",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00070",
+      "payload": {
+        "citizen_id": "VN00070",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00071",
+      "payload": {
+        "citizen_id": "VN00071",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00072",
+      "payload": {
+        "citizen_id": "VN00072",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00073",
+      "payload": {
+        "citizen_id": "VN00073",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00074",
+      "payload": {
+        "citizen_id": "VN00074",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00075",
+      "payload": {
+        "citizen_id": "VN00075",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00076",
+      "payload": {
+        "citizen_id": "VN00076",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00077",
+      "payload": {
+        "citizen_id": "VN00077",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00078",
+      "payload": {
+        "citizen_id": "VN00078",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00079",
+      "payload": {
+        "citizen_id": "VN00079",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00080",
+      "payload": {
+        "citizen_id": "VN00080",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00081",
+      "payload": {
+        "citizen_id": "VN00081",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00082",
+      "payload": {
+        "citizen_id": "VN00082",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00083",
+      "payload": {
+        "citizen_id": "VN00083",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00084",
+      "payload": {
+        "citizen_id": "VN00084",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00085",
+      "payload": {
+        "citizen_id": "VN00085",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00086",
+      "payload": {
+        "citizen_id": "VN00086",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00087",
+      "payload": {
+        "citizen_id": "VN00087",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00088",
+      "payload": {
+        "citizen_id": "VN00088",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00089",
+      "payload": {
+        "citizen_id": "VN00089",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00090",
+      "payload": {
+        "citizen_id": "VN00090",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00091",
+      "payload": {
+        "citizen_id": "VN00091",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00092",
+      "payload": {
+        "citizen_id": "VN00092",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00093",
+      "payload": {
+        "citizen_id": "VN00093",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00094",
+      "payload": {
+        "citizen_id": "VN00094",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00095",
+      "payload": {
+        "citizen_id": "VN00095",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00096",
+      "payload": {
+        "citizen_id": "VN00096",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00097",
+      "payload": {
+        "citizen_id": "VN00097",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00098",
+      "payload": {
+        "citizen_id": "VN00098",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00099",
+      "payload": {
+        "citizen_id": "VN00099",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00100",
+      "payload": {
+        "citizen_id": "VN00100",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00101",
+      "payload": {
+        "citizen_id": "VN00101",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00102",
+      "payload": {
+        "citizen_id": "VN00102",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00103",
+      "payload": {
+        "citizen_id": "VN00103",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00104",
+      "payload": {
+        "citizen_id": "VN00104",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00105",
+      "payload": {
+        "citizen_id": "VN00105",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00106",
+      "payload": {
+        "citizen_id": "VN00106",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00107",
+      "payload": {
+        "citizen_id": "VN00107",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00108",
+      "payload": {
+        "citizen_id": "VN00108",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00109",
+      "payload": {
+        "citizen_id": "VN00109",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00110",
+      "payload": {
+        "citizen_id": "VN00110",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00111",
+      "payload": {
+        "citizen_id": "VN00111",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00112",
+      "payload": {
+        "citizen_id": "VN00112",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00113",
+      "payload": {
+        "citizen_id": "VN00113",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00114",
+      "payload": {
+        "citizen_id": "VN00114",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00115",
+      "payload": {
+        "citizen_id": "VN00115",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00116",
+      "payload": {
+        "citizen_id": "VN00116",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00117",
+      "payload": {
+        "citizen_id": "VN00117",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00118",
+      "payload": {
+        "citizen_id": "VN00118",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00119",
+      "payload": {
+        "citizen_id": "VN00119",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00120",
+      "payload": {
+        "citizen_id": "VN00120",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00121",
+      "payload": {
+        "citizen_id": "VN00121",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00122",
+      "payload": {
+        "citizen_id": "VN00122",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00123",
+      "payload": {
+        "citizen_id": "VN00123",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00124",
+      "payload": {
+        "citizen_id": "VN00124",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00125",
+      "payload": {
+        "citizen_id": "VN00125",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00126",
+      "payload": {
+        "citizen_id": "VN00126",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00127",
+      "payload": {
+        "citizen_id": "VN00127",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00128",
+      "payload": {
+        "citizen_id": "VN00128",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00129",
+      "payload": {
+        "citizen_id": "VN00129",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00130",
+      "payload": {
+        "citizen_id": "VN00130",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00131",
+      "payload": {
+        "citizen_id": "VN00131",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00132",
+      "payload": {
+        "citizen_id": "VN00132",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00133",
+      "payload": {
+        "citizen_id": "VN00133",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00134",
+      "payload": {
+        "citizen_id": "VN00134",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00135",
+      "payload": {
+        "citizen_id": "VN00135",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00136",
+      "payload": {
+        "citizen_id": "VN00136",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00137",
+      "payload": {
+        "citizen_id": "VN00137",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00138",
+      "payload": {
+        "citizen_id": "VN00138",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00139",
+      "payload": {
+        "citizen_id": "VN00139",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00140",
+      "payload": {
+        "citizen_id": "VN00140",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00141",
+      "payload": {
+        "citizen_id": "VN00141",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00142",
+      "payload": {
+        "citizen_id": "VN00142",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00143",
+      "payload": {
+        "citizen_id": "VN00143",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00144",
+      "payload": {
+        "citizen_id": "VN00144",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00145",
+      "payload": {
+        "citizen_id": "VN00145",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00146",
+      "payload": {
+        "citizen_id": "VN00146",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00147",
+      "payload": {
+        "citizen_id": "VN00147",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00148",
+      "payload": {
+        "citizen_id": "VN00148",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00149",
+      "payload": {
+        "citizen_id": "VN00149",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00150",
+      "payload": {
+        "citizen_id": "VN00150",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00151",
+      "payload": {
+        "citizen_id": "VN00151",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00152",
+      "payload": {
+        "citizen_id": "VN00152",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00153",
+      "payload": {
+        "citizen_id": "VN00153",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00154",
+      "payload": {
+        "citizen_id": "VN00154",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00155",
+      "payload": {
+        "citizen_id": "VN00155",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00156",
+      "payload": {
+        "citizen_id": "VN00156",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00157",
+      "payload": {
+        "citizen_id": "VN00157",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00158",
+      "payload": {
+        "citizen_id": "VN00158",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00159",
+      "payload": {
+        "citizen_id": "VN00159",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00160",
+      "payload": {
+        "citizen_id": "VN00160",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00161",
+      "payload": {
+        "citizen_id": "VN00161",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00162",
+      "payload": {
+        "citizen_id": "VN00162",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00163",
+      "payload": {
+        "citizen_id": "VN00163",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00164",
+      "payload": {
+        "citizen_id": "VN00164",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00165",
+      "payload": {
+        "citizen_id": "VN00165",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00166",
+      "payload": {
+        "citizen_id": "VN00166",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00167",
+      "payload": {
+        "citizen_id": "VN00167",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00168",
+      "payload": {
+        "citizen_id": "VN00168",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00169",
+      "payload": {
+        "citizen_id": "VN00169",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00170",
+      "payload": {
+        "citizen_id": "VN00170",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00171",
+      "payload": {
+        "citizen_id": "VN00171",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00172",
+      "payload": {
+        "citizen_id": "VN00172",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00173",
+      "payload": {
+        "citizen_id": "VN00173",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00174",
+      "payload": {
+        "citizen_id": "VN00174",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00175",
+      "payload": {
+        "citizen_id": "VN00175",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00176",
+      "payload": {
+        "citizen_id": "VN00176",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00177",
+      "payload": {
+        "citizen_id": "VN00177",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00178",
+      "payload": {
+        "citizen_id": "VN00178",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00179",
+      "payload": {
+        "citizen_id": "VN00179",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00180",
+      "payload": {
+        "citizen_id": "VN00180",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00181",
+      "payload": {
+        "citizen_id": "VN00181",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00182",
+      "payload": {
+        "citizen_id": "VN00182",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00183",
+      "payload": {
+        "citizen_id": "VN00183",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00184",
+      "payload": {
+        "citizen_id": "VN00184",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00185",
+      "payload": {
+        "citizen_id": "VN00185",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00186",
+      "payload": {
+        "citizen_id": "VN00186",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00187",
+      "payload": {
+        "citizen_id": "VN00187",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00188",
+      "payload": {
+        "citizen_id": "VN00188",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00189",
+      "payload": {
+        "citizen_id": "VN00189",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00190",
+      "payload": {
+        "citizen_id": "VN00190",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00191",
+      "payload": {
+        "citizen_id": "VN00191",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00192",
+      "payload": {
+        "citizen_id": "VN00192",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00193",
+      "payload": {
+        "citizen_id": "VN00193",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00194",
+      "payload": {
+        "citizen_id": "VN00194",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00195",
+      "payload": {
+        "citizen_id": "VN00195",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00196",
+      "payload": {
+        "citizen_id": "VN00196",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00197",
+      "payload": {
+        "citizen_id": "VN00197",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00198",
+      "payload": {
+        "citizen_id": "VN00198",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00199",
+      "payload": {
+        "citizen_id": "VN00199",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00200",
+      "payload": {
+        "citizen_id": "VN00200",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00201",
+      "payload": {
+        "citizen_id": "VN00201",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00202",
+      "payload": {
+        "citizen_id": "VN00202",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00203",
+      "payload": {
+        "citizen_id": "VN00203",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00204",
+      "payload": {
+        "citizen_id": "VN00204",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00205",
+      "payload": {
+        "citizen_id": "VN00205",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00206",
+      "payload": {
+        "citizen_id": "VN00206",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00207",
+      "payload": {
+        "citizen_id": "VN00207",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00208",
+      "payload": {
+        "citizen_id": "VN00208",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00209",
+      "payload": {
+        "citizen_id": "VN00209",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00210",
+      "payload": {
+        "citizen_id": "VN00210",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00211",
+      "payload": {
+        "citizen_id": "VN00211",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00212",
+      "payload": {
+        "citizen_id": "VN00212",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00213",
+      "payload": {
+        "citizen_id": "VN00213",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00214",
+      "payload": {
+        "citizen_id": "VN00214",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00215",
+      "payload": {
+        "citizen_id": "VN00215",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00216",
+      "payload": {
+        "citizen_id": "VN00216",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00217",
+      "payload": {
+        "citizen_id": "VN00217",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00218",
+      "payload": {
+        "citizen_id": "VN00218",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00219",
+      "payload": {
+        "citizen_id": "VN00219",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00220",
+      "payload": {
+        "citizen_id": "VN00220",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00221",
+      "payload": {
+        "citizen_id": "VN00221",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00222",
+      "payload": {
+        "citizen_id": "VN00222",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00223",
+      "payload": {
+        "citizen_id": "VN00223",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00224",
+      "payload": {
+        "citizen_id": "VN00224",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00225",
+      "payload": {
+        "citizen_id": "VN00225",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00226",
+      "payload": {
+        "citizen_id": "VN00226",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00227",
+      "payload": {
+        "citizen_id": "VN00227",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00228",
+      "payload": {
+        "citizen_id": "VN00228",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00229",
+      "payload": {
+        "citizen_id": "VN00229",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00230",
+      "payload": {
+        "citizen_id": "VN00230",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00231",
+      "payload": {
+        "citizen_id": "VN00231",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00232",
+      "payload": {
+        "citizen_id": "VN00232",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00233",
+      "payload": {
+        "citizen_id": "VN00233",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00234",
+      "payload": {
+        "citizen_id": "VN00234",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00235",
+      "payload": {
+        "citizen_id": "VN00235",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00236",
+      "payload": {
+        "citizen_id": "VN00236",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00237",
+      "payload": {
+        "citizen_id": "VN00237",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00238",
+      "payload": {
+        "citizen_id": "VN00238",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00239",
+      "payload": {
+        "citizen_id": "VN00239",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00240",
+      "payload": {
+        "citizen_id": "VN00240",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00241",
+      "payload": {
+        "citizen_id": "VN00241",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00242",
+      "payload": {
+        "citizen_id": "VN00242",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00243",
+      "payload": {
+        "citizen_id": "VN00243",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00244",
+      "payload": {
+        "citizen_id": "VN00244",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00245",
+      "payload": {
+        "citizen_id": "VN00245",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00246",
+      "payload": {
+        "citizen_id": "VN00246",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00247",
+      "payload": {
+        "citizen_id": "VN00247",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00248",
+      "payload": {
+        "citizen_id": "VN00248",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00249",
+      "payload": {
+        "citizen_id": "VN00249",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00250",
+      "payload": {
+        "citizen_id": "VN00250",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00251",
+      "payload": {
+        "citizen_id": "VN00251",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00252",
+      "payload": {
+        "citizen_id": "VN00252",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00253",
+      "payload": {
+        "citizen_id": "VN00253",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00254",
+      "payload": {
+        "citizen_id": "VN00254",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00255",
+      "payload": {
+        "citizen_id": "VN00255",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00256",
+      "payload": {
+        "citizen_id": "VN00256",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00257",
+      "payload": {
+        "citizen_id": "VN00257",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00258",
+      "payload": {
+        "citizen_id": "VN00258",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00259",
+      "payload": {
+        "citizen_id": "VN00259",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00260",
+      "payload": {
+        "citizen_id": "VN00260",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00261",
+      "payload": {
+        "citizen_id": "VN00261",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00262",
+      "payload": {
+        "citizen_id": "VN00262",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00263",
+      "payload": {
+        "citizen_id": "VN00263",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00264",
+      "payload": {
+        "citizen_id": "VN00264",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00265",
+      "payload": {
+        "citizen_id": "VN00265",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00266",
+      "payload": {
+        "citizen_id": "VN00266",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00267",
+      "payload": {
+        "citizen_id": "VN00267",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00268",
+      "payload": {
+        "citizen_id": "VN00268",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00269",
+      "payload": {
+        "citizen_id": "VN00269",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00270",
+      "payload": {
+        "citizen_id": "VN00270",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00271",
+      "payload": {
+        "citizen_id": "VN00271",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00272",
+      "payload": {
+        "citizen_id": "VN00272",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00273",
+      "payload": {
+        "citizen_id": "VN00273",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00274",
+      "payload": {
+        "citizen_id": "VN00274",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00275",
+      "payload": {
+        "citizen_id": "VN00275",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00276",
+      "payload": {
+        "citizen_id": "VN00276",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00277",
+      "payload": {
+        "citizen_id": "VN00277",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00278",
+      "payload": {
+        "citizen_id": "VN00278",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00279",
+      "payload": {
+        "citizen_id": "VN00279",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00280",
+      "payload": {
+        "citizen_id": "VN00280",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00281",
+      "payload": {
+        "citizen_id": "VN00281",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00282",
+      "payload": {
+        "citizen_id": "VN00282",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00283",
+      "payload": {
+        "citizen_id": "VN00283",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00284",
+      "payload": {
+        "citizen_id": "VN00284",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00285",
+      "payload": {
+        "citizen_id": "VN00285",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00286",
+      "payload": {
+        "citizen_id": "VN00286",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00287",
+      "payload": {
+        "citizen_id": "VN00287",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00288",
+      "payload": {
+        "citizen_id": "VN00288",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00289",
+      "payload": {
+        "citizen_id": "VN00289",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00290",
+      "payload": {
+        "citizen_id": "VN00290",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00291",
+      "payload": {
+        "citizen_id": "VN00291",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00292",
+      "payload": {
+        "citizen_id": "VN00292",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00293",
+      "payload": {
+        "citizen_id": "VN00293",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00294",
+      "payload": {
+        "citizen_id": "VN00294",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00295",
+      "payload": {
+        "citizen_id": "VN00295",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00296",
+      "payload": {
+        "citizen_id": "VN00296",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00297",
+      "payload": {
+        "citizen_id": "VN00297",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00298",
+      "payload": {
+        "citizen_id": "VN00298",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00299",
+      "payload": {
+        "citizen_id": "VN00299",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00300",
+      "payload": {
+        "citizen_id": "VN00300",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00301",
+      "payload": {
+        "citizen_id": "VN00301",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00302",
+      "payload": {
+        "citizen_id": "VN00302",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00303",
+      "payload": {
+        "citizen_id": "VN00303",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00304",
+      "payload": {
+        "citizen_id": "VN00304",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00305",
+      "payload": {
+        "citizen_id": "VN00305",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00306",
+      "payload": {
+        "citizen_id": "VN00306",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00307",
+      "payload": {
+        "citizen_id": "VN00307",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00308",
+      "payload": {
+        "citizen_id": "VN00308",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00309",
+      "payload": {
+        "citizen_id": "VN00309",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00310",
+      "payload": {
+        "citizen_id": "VN00310",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00311",
+      "payload": {
+        "citizen_id": "VN00311",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00312",
+      "payload": {
+        "citizen_id": "VN00312",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00313",
+      "payload": {
+        "citizen_id": "VN00313",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00314",
+      "payload": {
+        "citizen_id": "VN00314",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00315",
+      "payload": {
+        "citizen_id": "VN00315",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00316",
+      "payload": {
+        "citizen_id": "VN00316",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00317",
+      "payload": {
+        "citizen_id": "VN00317",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00318",
+      "payload": {
+        "citizen_id": "VN00318",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00319",
+      "payload": {
+        "citizen_id": "VN00319",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00320",
+      "payload": {
+        "citizen_id": "VN00320",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00321",
+      "payload": {
+        "citizen_id": "VN00321",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00322",
+      "payload": {
+        "citizen_id": "VN00322",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00323",
+      "payload": {
+        "citizen_id": "VN00323",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00324",
+      "payload": {
+        "citizen_id": "VN00324",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00325",
+      "payload": {
+        "citizen_id": "VN00325",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00326",
+      "payload": {
+        "citizen_id": "VN00326",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00327",
+      "payload": {
+        "citizen_id": "VN00327",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00328",
+      "payload": {
+        "citizen_id": "VN00328",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00329",
+      "payload": {
+        "citizen_id": "VN00329",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00330",
+      "payload": {
+        "citizen_id": "VN00330",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00331",
+      "payload": {
+        "citizen_id": "VN00331",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00332",
+      "payload": {
+        "citizen_id": "VN00332",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00333",
+      "payload": {
+        "citizen_id": "VN00333",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00334",
+      "payload": {
+        "citizen_id": "VN00334",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00335",
+      "payload": {
+        "citizen_id": "VN00335",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00336",
+      "payload": {
+        "citizen_id": "VN00336",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00337",
+      "payload": {
+        "citizen_id": "VN00337",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00338",
+      "payload": {
+        "citizen_id": "VN00338",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00339",
+      "payload": {
+        "citizen_id": "VN00339",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00340",
+      "payload": {
+        "citizen_id": "VN00340",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00341",
+      "payload": {
+        "citizen_id": "VN00341",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00342",
+      "payload": {
+        "citizen_id": "VN00342",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00343",
+      "payload": {
+        "citizen_id": "VN00343",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00344",
+      "payload": {
+        "citizen_id": "VN00344",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00345",
+      "payload": {
+        "citizen_id": "VN00345",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00346",
+      "payload": {
+        "citizen_id": "VN00346",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00347",
+      "payload": {
+        "citizen_id": "VN00347",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00348",
+      "payload": {
+        "citizen_id": "VN00348",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00349",
+      "payload": {
+        "citizen_id": "VN00349",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00350",
+      "payload": {
+        "citizen_id": "VN00350",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00351",
+      "payload": {
+        "citizen_id": "VN00351",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00352",
+      "payload": {
+        "citizen_id": "VN00352",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00353",
+      "payload": {
+        "citizen_id": "VN00353",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00354",
+      "payload": {
+        "citizen_id": "VN00354",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00355",
+      "payload": {
+        "citizen_id": "VN00355",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00356",
+      "payload": {
+        "citizen_id": "VN00356",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00357",
+      "payload": {
+        "citizen_id": "VN00357",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00358",
+      "payload": {
+        "citizen_id": "VN00358",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00359",
+      "payload": {
+        "citizen_id": "VN00359",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00360",
+      "payload": {
+        "citizen_id": "VN00360",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00361",
+      "payload": {
+        "citizen_id": "VN00361",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00362",
+      "payload": {
+        "citizen_id": "VN00362",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00363",
+      "payload": {
+        "citizen_id": "VN00363",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00364",
+      "payload": {
+        "citizen_id": "VN00364",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00365",
+      "payload": {
+        "citizen_id": "VN00365",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00366",
+      "payload": {
+        "citizen_id": "VN00366",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00367",
+      "payload": {
+        "citizen_id": "VN00367",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00368",
+      "payload": {
+        "citizen_id": "VN00368",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00369",
+      "payload": {
+        "citizen_id": "VN00369",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00370",
+      "payload": {
+        "citizen_id": "VN00370",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00371",
+      "payload": {
+        "citizen_id": "VN00371",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00372",
+      "payload": {
+        "citizen_id": "VN00372",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00373",
+      "payload": {
+        "citizen_id": "VN00373",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00374",
+      "payload": {
+        "citizen_id": "VN00374",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00375",
+      "payload": {
+        "citizen_id": "VN00375",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00376",
+      "payload": {
+        "citizen_id": "VN00376",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00377",
+      "payload": {
+        "citizen_id": "VN00377",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00378",
+      "payload": {
+        "citizen_id": "VN00378",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00379",
+      "payload": {
+        "citizen_id": "VN00379",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00380",
+      "payload": {
+        "citizen_id": "VN00380",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00381",
+      "payload": {
+        "citizen_id": "VN00381",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00382",
+      "payload": {
+        "citizen_id": "VN00382",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00383",
+      "payload": {
+        "citizen_id": "VN00383",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00384",
+      "payload": {
+        "citizen_id": "VN00384",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00385",
+      "payload": {
+        "citizen_id": "VN00385",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00386",
+      "payload": {
+        "citizen_id": "VN00386",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00387",
+      "payload": {
+        "citizen_id": "VN00387",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00388",
+      "payload": {
+        "citizen_id": "VN00388",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00389",
+      "payload": {
+        "citizen_id": "VN00389",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00390",
+      "payload": {
+        "citizen_id": "VN00390",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00391",
+      "payload": {
+        "citizen_id": "VN00391",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00392",
+      "payload": {
+        "citizen_id": "VN00392",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00393",
+      "payload": {
+        "citizen_id": "VN00393",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00394",
+      "payload": {
+        "citizen_id": "VN00394",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00395",
+      "payload": {
+        "citizen_id": "VN00395",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00396",
+      "payload": {
+        "citizen_id": "VN00396",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00397",
+      "payload": {
+        "citizen_id": "VN00397",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00398",
+      "payload": {
+        "citizen_id": "VN00398",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00399",
+      "payload": {
+        "citizen_id": "VN00399",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00400",
+      "payload": {
+        "citizen_id": "VN00400",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00401",
+      "payload": {
+        "citizen_id": "VN00401",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00402",
+      "payload": {
+        "citizen_id": "VN00402",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00403",
+      "payload": {
+        "citizen_id": "VN00403",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00404",
+      "payload": {
+        "citizen_id": "VN00404",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00405",
+      "payload": {
+        "citizen_id": "VN00405",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00406",
+      "payload": {
+        "citizen_id": "VN00406",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00407",
+      "payload": {
+        "citizen_id": "VN00407",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00408",
+      "payload": {
+        "citizen_id": "VN00408",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00409",
+      "payload": {
+        "citizen_id": "VN00409",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00410",
+      "payload": {
+        "citizen_id": "VN00410",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00411",
+      "payload": {
+        "citizen_id": "VN00411",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00412",
+      "payload": {
+        "citizen_id": "VN00412",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00413",
+      "payload": {
+        "citizen_id": "VN00413",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00414",
+      "payload": {
+        "citizen_id": "VN00414",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00415",
+      "payload": {
+        "citizen_id": "VN00415",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00416",
+      "payload": {
+        "citizen_id": "VN00416",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00417",
+      "payload": {
+        "citizen_id": "VN00417",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00418",
+      "payload": {
+        "citizen_id": "VN00418",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00419",
+      "payload": {
+        "citizen_id": "VN00419",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00420",
+      "payload": {
+        "citizen_id": "VN00420",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00421",
+      "payload": {
+        "citizen_id": "VN00421",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00422",
+      "payload": {
+        "citizen_id": "VN00422",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00423",
+      "payload": {
+        "citizen_id": "VN00423",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00424",
+      "payload": {
+        "citizen_id": "VN00424",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00425",
+      "payload": {
+        "citizen_id": "VN00425",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00426",
+      "payload": {
+        "citizen_id": "VN00426",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00427",
+      "payload": {
+        "citizen_id": "VN00427",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00428",
+      "payload": {
+        "citizen_id": "VN00428",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00429",
+      "payload": {
+        "citizen_id": "VN00429",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00430",
+      "payload": {
+        "citizen_id": "VN00430",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00431",
+      "payload": {
+        "citizen_id": "VN00431",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00432",
+      "payload": {
+        "citizen_id": "VN00432",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00433",
+      "payload": {
+        "citizen_id": "VN00433",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00434",
+      "payload": {
+        "citizen_id": "VN00434",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00435",
+      "payload": {
+        "citizen_id": "VN00435",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00436",
+      "payload": {
+        "citizen_id": "VN00436",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00437",
+      "payload": {
+        "citizen_id": "VN00437",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00438",
+      "payload": {
+        "citizen_id": "VN00438",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00439",
+      "payload": {
+        "citizen_id": "VN00439",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00440",
+      "payload": {
+        "citizen_id": "VN00440",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00441",
+      "payload": {
+        "citizen_id": "VN00441",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00442",
+      "payload": {
+        "citizen_id": "VN00442",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00443",
+      "payload": {
+        "citizen_id": "VN00443",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00444",
+      "payload": {
+        "citizen_id": "VN00444",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00445",
+      "payload": {
+        "citizen_id": "VN00445",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00446",
+      "payload": {
+        "citizen_id": "VN00446",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00447",
+      "payload": {
+        "citizen_id": "VN00447",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00448",
+      "payload": {
+        "citizen_id": "VN00448",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00449",
+      "payload": {
+        "citizen_id": "VN00449",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00450",
+      "payload": {
+        "citizen_id": "VN00450",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00451",
+      "payload": {
+        "citizen_id": "VN00451",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00452",
+      "payload": {
+        "citizen_id": "VN00452",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00453",
+      "payload": {
+        "citizen_id": "VN00453",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00454",
+      "payload": {
+        "citizen_id": "VN00454",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00455",
+      "payload": {
+        "citizen_id": "VN00455",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00456",
+      "payload": {
+        "citizen_id": "VN00456",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00457",
+      "payload": {
+        "citizen_id": "VN00457",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00458",
+      "payload": {
+        "citizen_id": "VN00458",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00459",
+      "payload": {
+        "citizen_id": "VN00459",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00460",
+      "payload": {
+        "citizen_id": "VN00460",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00461",
+      "payload": {
+        "citizen_id": "VN00461",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00462",
+      "payload": {
+        "citizen_id": "VN00462",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00463",
+      "payload": {
+        "citizen_id": "VN00463",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00464",
+      "payload": {
+        "citizen_id": "VN00464",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00465",
+      "payload": {
+        "citizen_id": "VN00465",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00466",
+      "payload": {
+        "citizen_id": "VN00466",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00467",
+      "payload": {
+        "citizen_id": "VN00467",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00468",
+      "payload": {
+        "citizen_id": "VN00468",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00469",
+      "payload": {
+        "citizen_id": "VN00469",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00470",
+      "payload": {
+        "citizen_id": "VN00470",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00471",
+      "payload": {
+        "citizen_id": "VN00471",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00472",
+      "payload": {
+        "citizen_id": "VN00472",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00473",
+      "payload": {
+        "citizen_id": "VN00473",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00474",
+      "payload": {
+        "citizen_id": "VN00474",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00475",
+      "payload": {
+        "citizen_id": "VN00475",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00476",
+      "payload": {
+        "citizen_id": "VN00476",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00477",
+      "payload": {
+        "citizen_id": "VN00477",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00478",
+      "payload": {
+        "citizen_id": "VN00478",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00479",
+      "payload": {
+        "citizen_id": "VN00479",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00480",
+      "payload": {
+        "citizen_id": "VN00480",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00481",
+      "payload": {
+        "citizen_id": "VN00481",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00482",
+      "payload": {
+        "citizen_id": "VN00482",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00483",
+      "payload": {
+        "citizen_id": "VN00483",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00484",
+      "payload": {
+        "citizen_id": "VN00484",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00485",
+      "payload": {
+        "citizen_id": "VN00485",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00486",
+      "payload": {
+        "citizen_id": "VN00486",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00487",
+      "payload": {
+        "citizen_id": "VN00487",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00488",
+      "payload": {
+        "citizen_id": "VN00488",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00489",
+      "payload": {
+        "citizen_id": "VN00489",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00490",
+      "payload": {
+        "citizen_id": "VN00490",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00491",
+      "payload": {
+        "citizen_id": "VN00491",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00492",
+      "payload": {
+        "citizen_id": "VN00492",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00493",
+      "payload": {
+        "citizen_id": "VN00493",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00494",
+      "payload": {
+        "citizen_id": "VN00494",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00495",
+      "payload": {
+        "citizen_id": "VN00495",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00496",
+      "payload": {
+        "citizen_id": "VN00496",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00497",
+      "payload": {
+        "citizen_id": "VN00497",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00498",
+      "payload": {
+        "citizen_id": "VN00498",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00499",
+      "payload": {
+        "citizen_id": "VN00499",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00500",
+      "payload": {
+        "citizen_id": "VN00500",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00501",
+      "payload": {
+        "citizen_id": "VN00501",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00502",
+      "payload": {
+        "citizen_id": "VN00502",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00503",
+      "payload": {
+        "citizen_id": "VN00503",
+        "type": "Smart Economy",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00504",
+      "payload": {
+        "citizen_id": "VN00504",
+        "type": "Smart People",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00505",
+      "payload": {
+        "citizen_id": "VN00505",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00506",
+      "payload": {
+        "citizen_id": "VN00506",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00507",
+      "payload": {
+        "citizen_id": "VN00507",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00508",
+      "payload": {
+        "citizen_id": "VN00508",
+        "type": "Smart Living",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00509",
+      "payload": {
+        "citizen_id": "VN00509",
+        "type": "Smart Environment",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00510",
+      "payload": {
+        "citizen_id": "VN00510",
+        "type": "Smart Mobility",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    },
+    {
+      "tx_id": "tx00511",
+      "payload": {
+        "citizen_id": "VN00511",
+        "type": "Smart Governance",
+        "claim": "sufficient_income_and_no_debt"
+      }
+    }
+  ]
+}
