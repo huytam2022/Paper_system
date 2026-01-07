@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse, csv, os
 import numpy as np
 import time
+from collections import deque
 import logging
 logging.getLogger().setLevel(logging.WARNING)
 
@@ -75,6 +76,13 @@ def suppress_stdout():
 
 def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 500):
     clock = SimClock()
+    rng = np.random.default_rng(seed)
+
+    # arrival rate (tx/s) in simulated time
+    arrival_rate = 60.0  # tune: 40-90 realistic for edge gateway
+    burst_prob = 0.03     # occasional burst
+    burst_size = 30       # additional arrivals on burst
+
     # make it less ideal (recommended defaults)
     net = Network(
         NetConfig(loss=loss, base_delay_ms=35, jitter_ms=25, timeout_ms=350, max_retries=1),
@@ -96,11 +104,33 @@ def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 5
 
     t0 = time.time()     # wall-clock for progress only
     last_log = t0
+    # window for realistic instantaneous throughput / eta stability
+    win = 1000
+    t_wall_win = deque(maxlen=win)     # wall timestamps
+    t_sim_win  = deque(maxlen=win)     # sim timestamps
+    comm_win   = deque(maxlen=win)     # committed count (cumulative)
 
     # submit a workload
     for k in range(n_txs):
-        tx = {"id": f"tx{k}", "t_submit_ms": clock.now_ms()}
-
+        # arrivals based on simulated time increment of last step ~ use small dt
+        # approximate dt= (queue + compute + network) will be added later,
+        # so here inject arrivals using expected arrivals per step.
+        expected = arrival_rate * 0.02  # assume ~20ms step baseline
+        arrivals = rng.poisson(expected)
+        
+        if rng.random() < burst_prob:
+            arrivals += burst_size
+        
+        backlog += arrivals
+        
+        if backlog > 0:
+            tx = {"id": f"tx{k}", "t_submit_ms": clock.now_ms()}
+            backlog -= 1
+        else:
+            # idle step: still advance small scheduler time
+            clock.advance(2.0)
+            continue
+            
         proposer = cons.select_proposer(strategy="weighted")
         proposer.broadcast(tx, round_idx=0) if hasattr(proposer, "broadcast") else None
 
@@ -132,7 +162,12 @@ def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 5
 
             # quick running stats (based on simulated time)
             sim_s = clock.now_ms() / 1000.0
-            thr_now = committed / sim_s if sim_s > 0 else 0.0
+            thr_now = 0.0
+            if len(t_sim_win) >= 2:
+                ds = (t_sim_win[-1] - t_sim_win[0]) / 1000.0
+                dc = comm_win[-1] - comm_win[0]
+                thr_now = (dc / ds) if ds > 0 else 0.0
+
 
             # avoid spamming logs too fast
             if now - last_log >= 0.2 or done == n_txs:
@@ -149,6 +184,10 @@ def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 5
     p50 = float(np.percentile(latencies, 50)) if latencies else 0.0
     p95 = float(np.percentile(latencies, 95)) if latencies else 0.0
     avg = float(np.mean(latencies)) if latencies else 0.0
+
+    t_wall_win.append(time.time())
+    t_sim_win.append(clock.now_ms())
+    comm_win.append(committed)
 
     return dict(
         loss=loss, committed=committed, sim_s=sim_s, throughput_tps=thr,
