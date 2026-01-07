@@ -7,7 +7,6 @@ from collections import deque
 import logging
 logging.getLogger().setLevel(logging.WARNING)
 
-
 from network import NetConfig, Network
 from simclock import SimClock
 
@@ -74,7 +73,16 @@ def suppress_stdout():
         sys.stdout.close()
         sys.stdout = old_stdout
 
+def sample_lognormal_ms(rng, mean_ms: float, sigma: float = 0.35, cap_mult: float = 5.0) -> float:
+    mean_ms = max(1e-3, float(mean_ms))
+    x = rng.lognormal(mean=np.log(mean_ms), sigma=sigma)
+    return float(min(x, mean_ms * cap_mult))
+
 def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 500):
+    # EWMA for realistic ETA
+    ewma_rate = None
+    alpha = 0.2
+
     clock = SimClock()
     rng = np.random.default_rng(seed)
 
@@ -145,9 +153,21 @@ def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 5
             backlog += 1
 
         # local processing cost (simulated time)
-        clock.advance(2.0 + (seed % 3))   # gateway-ish
-        clock.advance(4.0 + (seed % 5))   # verifier-ish
-        clock.advance(min(50.0, backlog * 0.05))  # queueing delay
+        # ---- stochastic cost model (REALISTIC) ----
+        # coordination / voting
+        clock.advance(sample_lognormal_ms(rng, 8.0, sigma=0.25))
+
+        # verification / execution
+        clock.advance(sample_lognormal_ms(rng, 12.0, sigma=0.35))
+
+        # queueing delay (depends on backlog, always non-zero)
+        base_q = 3.0 + 0.08 * backlog
+        clock.advance(sample_lognormal_ms(rng, base_q, sigma=0.30, cap_mult=6.0))
+
+        # ---- window tracking (AFTER one full step) ----
+        t_wall_win.append(time.time())
+        t_sim_win.append(clock.now_ms())
+        comm_win.append(committed)
 
         # progress log
         if log_every > 0 and ((k + 1) % log_every == 0 or (k + 1) == n_txs):
@@ -156,9 +176,16 @@ def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 5
             done = k + 1
             pct = 100.0 * done / n_txs
 
-            # ETA based on wall-clock speed
-            rate = done / elapsed if elapsed > 0 else 0.0
-            eta = (n_txs - done) / rate if rate > 0 else float("inf")
+            # ETA based on EWMA wall-clock rate (more realistic than done/elapsed)
+            dt_wall = max(1e-6, now - last_log)
+            inst_rate = log_every / dt_wall
+
+            ewma_rate = inst_rate if ewma_rate is None else (
+                alpha * inst_rate + (1 - alpha) * ewma_rate
+            )
+
+            eta = (n_txs - done) / ewma_rate if ewma_rate and ewma_rate > 0 else float("inf")
+
 
             # quick running stats (based on simulated time)
             sim_s = clock.now_ms() / 1000.0
@@ -184,10 +211,6 @@ def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 5
     p50 = float(np.percentile(latencies, 50)) if latencies else 0.0
     p95 = float(np.percentile(latencies, 95)) if latencies else 0.0
     avg = float(np.mean(latencies)) if latencies else 0.0
-
-    t_wall_win.append(time.time())
-    t_sim_win.append(clock.now_ms())
-    comm_win.append(committed)
 
     return dict(
         loss=loss, committed=committed, sim_s=sim_s, throughput_tps=thr,
