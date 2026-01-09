@@ -190,11 +190,10 @@ def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 5
             # quick running stats (based on simulated time)
             sim_s = clock.now_ms() / 1000.0
             thr_now = 0.0
-            if len(t_sim_win) >= 2:
-                ds = (t_sim_win[-1] - t_sim_win[0]) / 1000.0
+            if len(t_wall_win) >= 2:
+                ds = (t_wall_win[-1] - t_wall_win[0])   # seconds (wall)
                 dc = comm_win[-1] - comm_win[0]
                 thr_now = (dc / ds) if ds > 0 else 0.0
-
 
             # avoid spamming logs too fast
             if now - last_log >= 0.2 or done == n_txs:
@@ -208,12 +207,16 @@ def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 5
 
     sim_s = clock.now_ms() / 1000.0
     thr = committed / sim_s if sim_s > 0 else 0.0
+    wall_s = time.time() - t0
+    thr_wall = committed / wall_s if wall_s > 0 else 0.0
     p50 = float(np.percentile(latencies, 50)) if latencies else 0.0
     p95 = float(np.percentile(latencies, 95)) if latencies else 0.0
     avg = float(np.mean(latencies)) if latencies else 0.0
 
     return dict(
-        loss=loss, committed=committed, sim_s=sim_s, throughput_tps=thr,
+        loss=loss, committed=committed,
+        wall_s=wall_s, throughput_tps=thr_wall,
+        sim_s=sim_s,
         lat_avg_ms=avg, lat_p50_ms=p50, lat_p95_ms=p95
     )
 
