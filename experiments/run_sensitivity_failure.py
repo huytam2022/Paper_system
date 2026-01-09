@@ -130,6 +130,7 @@ def run_one(loss: float, seed: int, n_nodes: int, n_txs: int, log_every: int = 5
             arrivals += burst_size
         
         backlog += arrivals
+        backlog = min(backlog, 200000)
         
         if backlog > 0:
             tx = {"id": f"tx{k}", "t_submit_ms": clock.now_ms()}
